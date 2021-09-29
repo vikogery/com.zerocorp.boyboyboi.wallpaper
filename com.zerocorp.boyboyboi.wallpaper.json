@@ -34,7 +34,7 @@
 
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "123456",
+"UNITY_GAME_ID" : "4383023",
 "UNITY_TEST_MODE" : false,
 
 "APPLOVIN_BANNER_ID" : "123456789",
@@ -64,7 +64,7 @@
 "RATE_BUTTON" : "RATE & REVIEW",
 "LATER_BUTTON" : "HOME",
 "ENABLE_SHARE_BUTTON" : false,
-"SHARE_TXT" : "Superb App, download now",
+"SHARE_TXT" : "Superb App, Download Now",
 "MORE_BUTTON" : "Recommended App",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.SatyaStudio.CuteWallpapersForGirls.Kawaii.Backgrounds",
 
